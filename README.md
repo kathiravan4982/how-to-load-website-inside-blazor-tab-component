@@ -16,12 +16,12 @@ The purpose of this project is to help developers understand how to integrate we
 
 ## Prerequisites
 Ensure the following requirements are met before running this project:
-- Visual Studio 2022  
+- Visual Studio 2022 (v17.12 or later)  
 - .NET SDK compatible with Blazor  
 
 ## Installation and Running the Project
 1. Check out or clone this repository to a local directory.
-2. Open the solution file using Visual Studio 2022.
+2. Open the solution file using Visual Studio 2022 (v17.12 or later).
 3. Restore the NuGet packages by rebuilding the solution.
 4. Build and run the project to view the web page loaded inside the Tab component.
 
